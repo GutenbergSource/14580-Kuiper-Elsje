@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Elsje</dc:title>
+      <dc:creator>Anna Cornelia Kuiper (1860–1934)</dc:creator>
+      <dc:creator>Anna Catharina Frederika Wijthoff (1863–1944)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2005-01-03</dc:publisher>
+      <dc:date>2005-01-03</dc:date>
+      <dc:rights>Publiek Domein; het auteursrecht op de oorspronkelijke tekst is verlopen; dit bestand mag vrijelijk gekopieerd worden.
+</dc:rights>
+      <dc:identifier>pg:14580</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
